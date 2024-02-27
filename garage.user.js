@@ -2,9 +2,9 @@
 // @name         Nitro Type Car Hack_garage - New
 // @namespace    http://theprabhakar.in/
 // @version      3.0
-// @description  Change cars on Nitrotype.com
+// @description  Change cars on https://www.nitrotype.com/garage/customizer
 // @author       Prabhakar Rai
-// @match        https://www.nitrotype.com/garage
+// @match        https://www.nitrotype.com/garage/customizer
 // @updateURL    https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/garage.user.js
 // @downloadURL  https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/garage.user.js
 // @icon         https://raw.githubusercontent.com/PrabhakarRai/Nitro-type-car-hack/master/icon.jpg
